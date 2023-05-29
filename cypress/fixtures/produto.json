@@ -1,0 +1,32 @@
+[
+    {
+        "produto": "Abominable Hoodie",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": "1"
+    },
+    {
+        "produto": "Atlas Fitness Tank",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": "1"
+    },
+    {
+        "produto": "Atomic Endurance Running Tee (V-neck)",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": "1"
+    },
+    {
+        "produto": "Augusta Pullover Jacket",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": "1"
+    },
+    {
+        "produto": "Beaumont Summit Kit",
+        "tamanho": "XS",
+        "cor": "Orange",
+        "quantidade": "1"
+    }
+]
